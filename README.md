@@ -1,6 +1,6 @@
 ## DESCRIPTION
 
-It's a wordcloud where the code can be improved on as its not really operating at its fullest potential. it askes the user to upload a text file (perferably small) and generates a word cloud from it. its made up of 5 classes which are all vital to run it properly. You can copy and paste the code into your Java IDE.
+It's a wordcloud where the code can be improved on as its not really operating at its fullest potential. it askes the user to upload a text file (preferably small) and generates a word cloud from it. its made up of 5 classes which are all vital to run it properly. You can copy and paste the code into your Java IDE.
 
 ## RUNNING FROM COMMAND LINE
 
